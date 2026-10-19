@@ -1,0 +1,13 @@
+Archive Change Log
+==================
+
+[Revision 1] Initial archive index imported.
+[Revision 2] File references reviewed and filenames standardized.
+[Revision 3] Historical metadata reviewed during index maintenance.
+[Revision 4] Current index published after transfer.
+
+Note:
+Some historical fields may not appear in the current version of the index.
+Consult repository history when investigating older records.
+
+Maintainer: John Doe
