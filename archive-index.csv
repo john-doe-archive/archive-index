@@ -6,3 +6,4 @@ AR-004,recording.wav,audio,stadium_archive,archived,AUD-01
 AR-005,archive_notes.txt,text,stadium_archive,archived,NOTE-01
 AR-006,location.txt,text,stadium_archive,archived,LOC-01
 AR-007,transfer-log.txt,text,stadium_archive,archived,TR-014
+AR-008,transfer-log.txt,text,legacy_archive,archived,IDX-19
