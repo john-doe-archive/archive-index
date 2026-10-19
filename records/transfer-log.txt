@@ -1,0 +1,14 @@
+Archive Transfer Log
+====================
+
+Transfer ID: TR-014
+Collection: Stadium Archive
+Transfer type: Digital records
+Condition: Partial metadata preserved
+
+Notes:
+Several records were received from an earlier collection.
+The original index was not included in the transfer.
+Cross-references may be available in historical repository revisions.
+
+Maintainer: John Doe
