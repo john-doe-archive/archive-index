@@ -1,0 +1,7 @@
+record_id,filename,category,source,status,reference
+AR-001,01.jpg,image,photo_archive,archived,IMG-01
+AR-002,02.jpg,image,photo_archive,archived,IMG-02
+AR-003,08.jpg,image,stadium_archive,archived,IMG-08
+AR-004,recording.wav,audio,stadium_archive,archived,AUD-01
+AR-005,archive_notes.txt,text,stadium_archive,archived,NOTE-01
+AR-006,location.txt,text,stadium_archive,archived,LOC-01
