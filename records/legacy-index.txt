@@ -5,4 +5,37 @@ Record: IDX-19
 Status: Retired
 Maintainer: John Doe
 
+Historical Notes:
+-----------------
+
+Entry 01:
+SGVscCBNaXNzIFJvYm90
+
+Entry 02:
+T1NJTlQgLSBEaWdpdGFsIEZvb3RwcmludHM=
+
+Entry 03:
+RW5qb3kgdGhlIENURiE=
+
+Entry 04:
+SGFja2Z1cnk=
+
+Entry 05:
+ZmxhZ3tAcmNoSXZlXyRoYWQwd18xN30=
+
+Entry 06:
+VGhlIHRydXRoIGlzIGluIHRoZSBvbGQgcmVjb3Jkcw==
+
+Entry 07:
+Sm9obiBEb2U=
+
+Entry 08:
+Q2hlY2sgdGhlIGhpc3RvcnkgYmVmb3JlIHlvdSBsZWF2ZQ==
+
+Entry 09:
+TWlzc2luZyByZWNvcmRzIGFyZSBub3QgYWx3YXlzIGxvc3Q=
+
+Entry 10:
+SU5ELTE5
+
 Historical reference preserved for archival review.
